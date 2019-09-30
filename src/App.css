@@ -65,3 +65,13 @@ address{
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.media {
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+.media-left {
+    padding-right: 3%;
+}
+
